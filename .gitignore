@@ -1,0 +1,14 @@
+# X-Plane stuff - views & backup acf files
+*.acf~
+*_prefs.txt
+
+# Blender stuff
+*.blend1
+
+# Cmake stuff
+.cache/*
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/*
+Makefile
+compile_commands.json
